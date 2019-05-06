@@ -19,3 +19,25 @@ Levando em consideração as duas questões anteriores construa um algoritmo gen
 
 * JAVA
 
+COMO EXECUTAR:
+
+ABRA O ARQUIVO MAIN E EXECUTE A APLICAÇÃO.
+
+Responda algumas perguntas de entrada de valores em numeros literais baseados nas perguntas acima.
+
+"Digite o andar atual")
+"Digite o numero maximo de andares")
+"Digite a capacidade maxima de pessoas")
+"Digite o numero de pessoas presentes no elevador")
+
+Ao final vai aparecer um menu de ações do elevador. Faça suas ações ao final delas vai ter o resultado de cada ação e o tempo que levou para solucionar os problemas.
+|     1 - Subir andar         |
+|     2 - Descer andar        |
+|     3 - Exibir andar atual  |
+|	  4 - Entrar Pessoa       |
+|     5 - Sair Pessoa         |
+|     6 - Exibir numero de pessoas atuais |
+|     0 - Sair                |
+
+
+
