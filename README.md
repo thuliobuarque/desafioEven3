@@ -23,7 +23,7 @@ COMO EXECUTAR:
 
 ABRA O ARQUIVO MAIN E EXECUTE A APLICAÇÃO.
 
-Responda algumas perguntas de entrada de valores em numeros literais baseados nas perguntas acima.
+Responda algumas perguntas de entrada de valores em numeros literais baseados nas perguntas abaixo.
 
 * Digite o andar atual
 * Digite o numero maximo de andares
